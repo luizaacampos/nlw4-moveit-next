@@ -111,6 +111,6 @@
 
 @media(max-width: 720px) {
     .challengeBoxContainer {
-        margin-top: 1rem;
+        margin-top: 0.5rem;
     }
 }

@@ -58,5 +58,38 @@
     "type": "body",
     "description": "Em pé, gire a cintura o máximo que puder para a esquerda, segure por cinco segundos. Repita para a direita.",
     "amount": 90
+  },
+  {
+    "type": "body",
+    "description": "Levante-se e caminhe por três minutos para esticar as pernas.",
+    "amount": 90
+  },
+  {
+    "type": "body",
+    "description": "Estique os braços para o alto, com os dedos entrelaçados. Mantenha esta posição por 30 segundos.",
+    "amount": 90
+  },
+  {
+    "type": "body",
+    "description": "Levante-se, encline o corpo para o lado direito e permaneça nessa posição por 20 segundos. Repita do outro lado. ",
+    "amount": 90
+  },
+  {
+    "type": "body",
+    "description": "Gire os ombros para frente para relaxar a região. Faça de 15 a 20 repetições e depois repita o exercício girando para trás",
+    "amount": 90
+  },
+  {
+    "type": "body",
+    "description": "Levante-se e com as mãos apoiadas no encosto da cadeira fique na ponta dos pés. Em seguida, desça lentamente até que toda a sola dos seus pés encoste no chão. Repita o movimento 10 vezes.",
+    "amount": 90
+  },
+  {
+    "type": "body",
+    "description": "Beba água!",
+    "amount": 90
   }
 ]
+
+
+

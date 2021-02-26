@@ -17,3 +17,12 @@
     gap: 6.25rem;
     align-content: center;
  }
+
+@media(max-width: 720px) {
+   .container section {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+   }
+}

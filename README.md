@@ -1,8 +1,8 @@
-<h1  align="center"><img src="./logo-full.svg" />Move.it</h1>
+<h1  align="center"><img src="./public/logo-full.svg" />Move.it</h1>
 
 <p><img  alt="Version"  src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" /></p>
 
-### 🏠 [Homepage](https://nlw4-moveit-luizaacampos.vercel.app)
+### 🏠 [Veja aqui a aplicação em ação!](https://nlw4-moveit-luizaacampos.vercel.app)
 
 > 🚀 Move It é uma aplicação que estimula os devs a se movimentar!
 
@@ -17,16 +17,18 @@
 <h2 id="overview">Overview</h2>
 
 <p>
-    Um cronômetro marca ciclos de 25 minutos de trabalho e ao fim de cada ciclo um desafio é fornecido. Ao completar o desafio o usuário ganha pontos e avança de nível. 
-    Os desafios são exercícios de alongamento para o corpo e olhos, além de lembretes para beber água.
-    A aplicação foi desenvolvida durante a Next Level Week #4 promovida pela Rocketseat.
+  Um cronômetro marca ciclos de 25 minutos de trabalho e ao fim de cada ciclo um desafio é fornecido. Ao completar o desafio o usuário ganha pontos e avança de nível. 
+
+  Os desafios são exercícios de alongamento para o corpo e olhos, além de lembretes para beber água.
+
+  A aplicação foi desenvolvida durante a Next Level Week #4 promovida pela Rocketseat. 🚀 
 </p>
 
 <h2 id="demonstracao">Demonstração</h2>
 
 <p>
-  <img src="./screen1.png" />
-  <img src="./screen2.png" />
+  <img src="./public/screen1.png" />
+  <img src="./public/screen2.png" />
 </p>
 
 <h2 id="comousar">Como usar</h2>
@@ -35,10 +37,13 @@
 
 <p>
     Antes de começar você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-    <a href='https://nodejs.org/en/'>Node.js</a>
-    <a href="https://yarnpkg.com/">Yarn</a>
-    Também é bom ter um editor para trabalhar com o código como o
-    <a href="https://code.visualstudio.com/">VSCode</a>
+    <ul>
+      <li><a href="https://nodejs.org/en/">Node.js</a></li>
+      <li><a href="https://yarnpkg.com/">Yarn</a></li>
+    </ul>
+
+    Também é bom ter um editor para trabalhar com o código como o 
+  <a href="https://code.visualstudio.com/">VSCode</a>
 </p>
 
 <h3>Instalação</h3>
@@ -66,10 +71,12 @@ yarn dev
   
   <p>
     As seguintes ferramentas foram usadas no desenvolvimento dessa aplicação:
-    - <a href="https://nodejs.org/en/">Node.js</a>
-    - <a href="https://pt-br.reactjs.org/">React.js</a>
-    - <a href="https://nextjs.org/">Next.js</a>
-    - <a href="https://www.typescriptlang.org/)">TypeScript</a>
+    <ul>
+      <li><a href="https://nodejs.org/en/">Node.js</a></li>
+      <li><a href="https://pt-br.reactjs.org/">React.js</a></li>
+      <li><a href="https://nextjs.org/">Next.js</a></li>
+      <li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
+    </ul>
   </p>
 
   <h2 id="autora">Autora</h2>
@@ -78,11 +85,9 @@ yarn dev
 👤 **Luiza Campos**
 
 
-* Github: [@luizaacampos](https://github.com/luizaacampos)
-
-* LinkedIn: [@luiza-de-almeida-campos](https://linkedin.com/in/luiza-de-almeida-campos)
+* [Linkedin](https://linkedin.com/in/luiza-de-almeida-campos)
 
   
-<p>Lembre-se de deixar sua ⭐️</p>
+<strong align="center">Não esqueça de deixar sua ⭐️</strong>
 
   

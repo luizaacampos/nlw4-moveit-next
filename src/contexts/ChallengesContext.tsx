@@ -1,7 +1,7 @@
 import { createContext, useState, ReactNode, useEffect } from "react";
 import Cookies from 'js-cookie'
 import challenges from '../../challenges.json'
-import { LeveUpModal } from "../components/LevelUpModal";
+import { LevelUpModal } from "../components/LevelUpModal";
 
 interface Challenge {
     type: 'body' | 'eye';
@@ -115,7 +115,7 @@ export function ChallengesProvider({ children, ...rest }: ChallengesProviderProp
         >
             {children}
 
-            { isLevelUpModalOpen && <LeveUpModal /> }
+            { isLevelUpModalOpen && <LevelUpModal /> }
         </ChallengesContext.Provider>
     )
 }

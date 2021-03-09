@@ -2,7 +2,7 @@
 
 <p><img  alt="Version"  src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" /></p>
 
-### 🏠 [Veja aqui a aplicação em ação!](https://nlw4-moveit-luizaacampos.vercel.app)
+### 🏠 [Clique aqui e veja a aplicação em ação!](https://nlw4-moveit-luizaacampos.vercel.app)
 
 > 🚀 Move It é uma aplicação que estimula os devs a se movimentar!
 
